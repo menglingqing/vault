@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "demo.md",
+                "file": "demo fold/demo.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "demo.md",
+                "file": "demo fold/demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "demo.md",
+                "file": "demo fold/demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "demo.md",
+                "file": "demo fold/demo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a37aef279ba79464",
+  "active": "3679ee00cac2e344",
   "lastOpenFiles": [
-    "demo.md",
-    "Untitled",
+    "demo fold",
+    "demo fold/demo.md",
     "dddemo",
     "新建 文本文档.txt"
   ]
