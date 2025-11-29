@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9db0b09107c0eb8a",
+        "id": "6a593a02828d4629",
         "type": "tabs",
         "children": [
           {
-            "id": "f060b5d7b723d597",
+            "id": "8c89be5160a26c89",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "demo"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for demo"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from demo"
             }
           },
           {
@@ -150,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "demo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of demo"
             }
           },
           {
@@ -173,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3679ee00cac2e344",
+  "active": "a37aef279ba79464",
   "lastOpenFiles": [
-    "Untitled",
     "demo.md",
+    "Untitled",
     "dddemo",
     "新建 文本文档.txt"
   ]
